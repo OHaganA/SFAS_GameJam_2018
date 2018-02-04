@@ -10,7 +10,7 @@ public class GameOverHandler : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
     {
-		uiManager = GameObject.Find("Canvas").GetComponent<UIManager>();
+		uiManager = GameObject.Find("StageCanvas").GetComponent<UIManager>();
         levelManager = GameObject.Find("Level Manager").GetComponent<LevelManager>();
     }
 	
