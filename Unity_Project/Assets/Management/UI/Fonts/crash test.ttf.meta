@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b389b7e1d7c50aa43a3bb91e804ebb5d
+timeCreated: 1515604982
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crash  Test
+  fontNames:
+  - Crash  Test
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
