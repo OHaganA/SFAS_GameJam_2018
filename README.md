@@ -14,7 +14,7 @@ This README documents whatever steps are necessary to get your application up an
 
 * This folder contains an .exe file that you can run to play a build version of the core project.
 *Playable_Demo folder not changed, the exe contained within this folder is the original exe of the core project build,
-the updated, finished build can be found on the itch.io page*
+the updated, finished build can be found on the [itch.io page] (https://rattywillow.itch.io/brawl-bay)*
 ### What are the controls? ###
 
 * Player 1 uses W,A,S,D keys to move and SPACE to jump *and Left Shift to punch*.
